@@ -1,4 +1,4 @@
-# mynewproject
+# Heart disease prediction using machine learning
 Heart disease prediction using maching learning 
 Algorithm used is logical regression 
 data set from kaggle.com
